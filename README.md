@@ -1,4 +1,4 @@
-# Game Project - README
+# Game Project - The Constant - README
 
 ## Overview
 This is a 2D game developed using Unity, featuring a player character with movement, combat abilities, and interactions with various enemy types. The game includes mechanics such as dashing, bashing, shooting projectiles, enemy AI behavior, and a timer system.
