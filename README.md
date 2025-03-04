@@ -57,7 +57,7 @@ This is a 2D game developed using Unity, featuring a player character with movem
 - Power-ups and abilities for the player.
 
 ## Credits
-Developed by Sudharshan SambathKumar, Abhinav Raghavendra, Abhijit M I
+Developed by Sudharshan SambathKumar, Abhinav Raghavendra, Abhijith M I
 
 ---
 For any issues or feature requests, feel free to reach out!
